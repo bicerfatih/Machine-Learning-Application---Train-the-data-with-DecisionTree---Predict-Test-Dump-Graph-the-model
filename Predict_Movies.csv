@@ -1,0 +1,27 @@
+Age,Gender,Genre
+5,1,Cartoon
+8,1,Cartoon
+12,1,Cartoon
+16,1,Comedy
+21,1,Romantic Comedy
+25,1,Romance
+32,1,Action
+36,1,Action
+41,1,Adventure
+46,1,Adventure
+50,1,Adventure
+53,1,Drama
+60,1,Drama
+6,0,Cartoon
+8,0,Cartoon
+13,0,Comedy
+15,0,Romantic Comedy
+20,0,Romance
+26,0,Romance
+32,0,Action
+36,0,Action
+42,0,Adventure
+48,0,Adventure
+52,0,Drama
+56,0,Drama
+65,0,Drama
